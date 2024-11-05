@@ -18,7 +18,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-![my final image](Asaphalt.html)
+![my final image](file:///Users/matthewcho/Desktop/Screen%20Shot%202024-11-05%20at%2012.13.52%20AM.png)
 
 ## Reflection
 
