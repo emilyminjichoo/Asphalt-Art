@@ -18,18 +18,18 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-![my final image](theNameOfTheImage.png)
+![my final image](Asaphalt.html)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project was supposed to draw a smiley face by using methods and classes in my code to get my painters to paint. 
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - I am proud of how I was able to understand how to split one big task into smaller tasks. Although I wasn't able to get the results I wanted, I got the background to be colored and if I worked on the actual face, it would've given the result I wanted. 
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would improve my actual drawing in the end by working on the actual face more. 
